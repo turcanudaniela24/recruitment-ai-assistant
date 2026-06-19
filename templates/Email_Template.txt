@@ -1,0 +1,19 @@
+Iti trimit o propunere pentru rolul de <Specifica Rolul> de la <Specifica Angajatorul>, pentru <Specifica Nume Candidat>. Te rog  sa imi spui cum ti se pare si daca consideri ca putem incerca cu el. 
+ 
+<Specifica Nume Candidat>
+ 
+ 
+LinkedIn:  <Specifica Link daca are>
+Krom: <Specifica Link daca are>
+<Specifica alte retele daca are>:  <Specifica Link daca are> 
+
+--------
+	• Engleza: <Specifica nivel de Engleza>
+	• Asteptari salariale:  minim <Specifica salariul minim> lei  
+	• SD: <Specifica disponibilitatea>
+	• Tip contract:  <Specifica tipul de contract>
+	• Mod de lucru: <Specifica modul de lucru>
+	• Locatie: <Specifica locatia jobului>
+ 
+-------
+Obs: <Specifica observatiile din >

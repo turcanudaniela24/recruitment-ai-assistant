@@ -1,0 +1,13 @@
+• A lucrat la Programming Pool (2015–2019 si 2020–2024) pe proiecte din zona employee benefits (carduri, vouchere), unde a facut full-stack pe .NET Framework / .NET Core, SQL Server si Angular, lucrand pe monolith si apoi migrari spre microservicii.
+	• Exp webforms:
+	    -  a contribuit la modernizarea  unor aplicatii: migrare din .NET Framework + WebForms spre Angular + microservicii, inclusiv mutare din on-prem in Azure.
+	    - Are experienta destul de mare cu WebForms (~4 ani la Programming Pool + si ulterior), folosit mai ales pentru mentenanta, bug fixing si migrare spre stack modern.
+	   - Este deschis si pentru oportunitati cu webforms
+	• In cadrul Programming Pool - a lucrat .net development si in paralel era si SQL developer.  Experienta complexa pe SQL 
+	• A folosit RabbitMQ (MassTransit) si ulterior Azure Service Bus pentru comunicarea intre microservicii
+La Softlab
+	• Proiect in zona de fintech / wealth management, a lucrat pe o platforma legacy rescrisa din WebForms + .NET Framework in Angular + .NET 8 si microservicii.
+	•  refactorizare, feature development, bug fixing si integrare date financiare, dar si pe arhitectura de tip multitenancy (trecere spre SaaS).
+	• Echipa 4 oameni - era senior pe echipa, implicat si in decizii tehnice si code review, plus partea de interviews tehnice pentru Angular.
+	• Experienta pe frontend: ~3-4 ani Angular (principal), React doar basic; pe backend a lucrat constant cu .NET Framework, .NET Core si pana la .NET 8.
+	• In trecut a lucrat  si pe alte stack-uri (PHP, Python, JS), dar in ultimii ~6-7 ani focus pe .NET full-stack + arhitecturi moderne (microservicii, API-uri, cloud).
